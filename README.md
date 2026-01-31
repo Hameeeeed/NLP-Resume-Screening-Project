@@ -55,4 +55,4 @@ The system displays:
 - OpenAI embeddings integration
 
 ## 👤 Author
-Your Name
+Mohd Hameed Ahmad
